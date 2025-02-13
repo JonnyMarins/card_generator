@@ -1,5 +1,239 @@
 {
-    "currentCard": [
-        {"id": 12}
-    ]
+  "favorites": [
+    {
+      "id": "43b0",
+      "flight_date": "2025-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Daguocun",
+        "timezone": "Asia/Shanghai",
+        "iata": "SJW",
+        "icao": "ZBSJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-11T00:10:00+00:00",
+        "estimated": "2025-02-11T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-11T01:55:00+00:00",
+        "estimated": "2025-02-11T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "9005",
+        "iata": "CF9005",
+        "icao": "CYZ9005",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "id": "5ecf",
+      "flight_date": "2025-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Daguocun",
+        "timezone": "Asia/Shanghai",
+        "iata": "SJW",
+        "icao": "ZBSJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-11T00:10:00+00:00",
+        "estimated": "2025-02-11T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-11T01:55:00+00:00",
+        "estimated": "2025-02-11T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "9005",
+        "iata": "CF9005",
+        "icao": "CYZ9005",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "id": "23bc",
+      "flight_date": "2025-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Daguocun",
+        "timezone": "Asia/Shanghai",
+        "iata": "SJW",
+        "icao": "ZBSJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-11T00:10:00+00:00",
+        "estimated": "2025-02-11T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-11T01:55:00+00:00",
+        "estimated": "2025-02-11T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "9005",
+        "iata": "CF9005",
+        "icao": "CYZ9005",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "id": "e53f",
+      "flight_date": "2025-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Daguocun",
+        "timezone": "Asia/Shanghai",
+        "iata": "SJW",
+        "icao": "ZBSJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-11T00:10:00+00:00",
+        "estimated": "2025-02-11T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-11T01:55:00+00:00",
+        "estimated": "2025-02-11T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "9005",
+        "iata": "CF9005",
+        "icao": "CYZ9005",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "id": "477f",
+      "flight_date": "2025-02-11",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Daguocun",
+        "timezone": "Asia/Shanghai",
+        "iata": "SJW",
+        "icao": "ZBSJ",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-02-11T00:10:00+00:00",
+        "estimated": "2025-02-11T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "delay": null,
+        "scheduled": "2025-02-11T01:55:00+00:00",
+        "estimated": "2025-02-11T01:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "9005",
+        "iata": "CF9005",
+        "icao": "CYZ9005",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    }
+  ]
 }
